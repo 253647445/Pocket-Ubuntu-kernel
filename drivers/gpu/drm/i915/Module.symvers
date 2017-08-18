@@ -1,0 +1,5 @@
+0x08a7896d	i915_gpu_raise	drivers/gpu/drm/i915/i915	EXPORT_SYMBOL_GPL
+0x05876c69	i915_gpu_busy	drivers/gpu/drm/i915/i915	EXPORT_SYMBOL_GPL
+0x402468e9	i915_gpu_lower	drivers/gpu/drm/i915/i915	EXPORT_SYMBOL_GPL
+0xe7237b0b	i915_gpu_turbo_disable	drivers/gpu/drm/i915/i915	EXPORT_SYMBOL_GPL
+0x500858b9	i915_read_mch_val	drivers/gpu/drm/i915/i915	EXPORT_SYMBOL_GPL
